@@ -6,3 +6,5 @@ Machine Learning gained a lot of popularity and become a necessary tool for rese
 
 1. Healthcare
    - [Disease Prediction Using Machine Learning](https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/)
+   - [ML | Heart Disease Prediction Using Logistic Regression](https://www.geeksforgeeks.org/ml-heart-disease-prediction-using-logistic-regression/)
+   - [Prediction of Wine type using Deep Learning](https://www.geeksforgeeks.org/prediction-of-wine-type-using-deep-learning/)
